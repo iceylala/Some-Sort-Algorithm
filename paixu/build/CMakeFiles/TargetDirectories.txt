@@ -1,0 +1,9 @@
+/root/git/test/code/paixu/build/CMakeFiles/charu.dir
+/root/git/test/code/paixu/build/CMakeFiles/shell.dir
+/root/git/test/code/paixu/build/CMakeFiles/jishu.dir
+/root/git/test/code/paixu/build/CMakeFiles/dui.dir
+/root/git/test/code/paixu/build/lib/CMakeFiles/common.dir
+/root/git/test/code/paixu/build/CMakeFiles/guibing.dir
+/root/git/test/code/paixu/build/CMakeFiles/xuanze.dir
+/root/git/test/code/paixu/build/CMakeFiles/kuaipai.dir
+/root/git/test/code/paixu/build/CMakeFiles/buddle.dir

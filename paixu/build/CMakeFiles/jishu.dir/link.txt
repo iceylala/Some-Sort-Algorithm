@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/jishu.dir/jishu.cpp.o  -o jishu -rdynamic lib/libcommon.a 

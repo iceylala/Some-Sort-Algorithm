@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/charu.dir/charu.cpp.o  -o charu -rdynamic lib/libcommon.a 

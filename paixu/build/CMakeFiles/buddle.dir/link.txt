@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/buddle.dir/buddle.cpp.o  -o buddle -rdynamic lib/libcommon.a 

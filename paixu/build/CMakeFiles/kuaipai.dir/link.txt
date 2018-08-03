@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/kuaipai.dir/kuaipai.cpp.o  -o kuaipai -rdynamic lib/libcommon.a 

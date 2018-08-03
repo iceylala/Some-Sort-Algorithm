@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+.././h/common.h
+vector
+-
+iostream
+-
+algorithm
+-
+
+/root/git/test/code/paixu/lib/common.cpp
+vector
+-
+common.h
+/root/git/test/code/paixu/lib/common.h
+
