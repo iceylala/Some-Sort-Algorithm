@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/insert.dir/insert.cpp.o  -o insert -rdynamic lib/libcommon.a 

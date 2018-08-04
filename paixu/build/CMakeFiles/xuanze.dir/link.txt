@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/xuanze.dir/xuanze.cpp.o  -o xuanze -rdynamic lib/libcommon.a 

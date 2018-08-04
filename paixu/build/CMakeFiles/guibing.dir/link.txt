@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/guibing.dir/guibing.cpp.o  -o guibing -rdynamic lib/libcommon.a 

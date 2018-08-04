@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/dui.dir/dui.cpp.o  -o dui -rdynamic lib/libcommon.a 
